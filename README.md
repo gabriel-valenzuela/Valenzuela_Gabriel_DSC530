@@ -6,6 +6,8 @@
 
 A data exploration and analysis to determine if the severity of the weather phenomenons La Nina and El Nino increases the number of fire outbreaks that occur within the rainforests of Brazil or does it not play any factor on the recent increases of fire outbreaks in the Amazon. 
 
+![Explanation of the Weather Storms](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/Nina_winterandsummer_620_from_climate.gov_.jpg)
+
 ### Environment
 
 Python was utilized within a jupyter notebook to complete the analysis
@@ -55,6 +57,9 @@ print(df4)
 plt.bar(df4['item'],df4['probability'])
 plt.show()
 ```
+![Probability Mass Function Severity](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/PhenomenonSeverityPMF.png)
+
+![Probability Mass Function Type](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/PhenomenonTypePMF.png)
 
 Cumulative mass function to examine the severity of the weather phenomenon and the likelihood that they would occur. 
 
@@ -96,6 +101,8 @@ _ = plt.ylabel('PDF')
 # Show the plot
 plt.show()
 ```
+
+![Exponential Distribution](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/FireSpots.Exponential.png)
 
 ### Analysis
 
@@ -157,3 +164,4 @@ plt.xlabel("Years")
 plt.ylabel("Fire Outbreaks")
 plt.show()
 ```
+![La Nina Fire Oubreaks](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/LaNinaFireOutbreaks.png)
