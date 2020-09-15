@@ -8,6 +8,8 @@ A data exploration and analysis to determine if the severity of the weather phen
 
 ![Explanation of the Weather Storms](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/Nina_winterandsummer_620_from_climate.gov_.jpg)
 
+<img src="Final%20Project/Images/Nina_winterandsummer_620_from_climate.gov_.jpg?raw=true"/>
+
 ### Environment
 
 Python was utilized within a jupyter notebook to complete the analysis
