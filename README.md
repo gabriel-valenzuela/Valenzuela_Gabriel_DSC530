@@ -26,10 +26,6 @@ from scipy import stats as ss
 from sklearn.linear_model import LinearRegression
 ```
 
-### Data Sets
-
-LINK
-
 ### Data Exploration Methods
 
 Descriptive Analysis and Histograms were used to determine any outliers as well as a summary of the characteristcs
@@ -167,3 +163,7 @@ plt.ylabel("Fire Outbreaks")
 plt.show()
 ```
 ![La Nina Fire Oubreaks](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/Final%20Project/Images/LaNinaFireOutbreaks.png)
+
+### Conclusion
+
+Based on my Data Exploration and Analysis project, the La Nina does not have a strong correlation to the fire outbreaks that occur throughout the Amazon rainforest throughout South America. When the storm would reach its highest severity in the Pacific, the fire outbreaks would remain consistent compared to the lower severity of the storm. Based on the model that was employed, the fire outbreaks from the storms will continue with the possibility of increasing in the future which was seen until 2025. 
